@@ -1,0 +1,27 @@
+
+.social__link-icon{
+  padding: 5px;
+background: #df2020;
+color: #fff;
+border-radius: 50%;
+}
+.social__link-icon:hover{
+  padding: 5px;
+  background: #df2020;
+  color: #fff;
+  border-radius: 50%;
+}
+
+.contact__btn{
+padding: 7px 15px;
+background: #df2020 !important;
+border-radius: 5px;
+color: #fff !important;
+}
+
+.textarea{
+width: 100%;
+}
+.contact__form ::placeholder{
+font-size: 18px;
+}
